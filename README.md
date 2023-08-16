@@ -2,7 +2,7 @@ Issue Tracker
 
 Clone this repository
 
-git clone https://github.com/username/repository.git
+git clone [https://github.com/username/repository.git](https://github.com/Anuragk-kumar/Issue_tracker_system_coding_ninjas.git)
 
 run command
 
